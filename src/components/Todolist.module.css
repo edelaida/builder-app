@@ -17,8 +17,7 @@
     .item{
       box-shadow: 2px 2px 5px 5px gray;
       width: calc((100%-20px)/3);
-      
-      /* justify-content: space-between; */
+        /* justify-content: space-between; */
       justify-items: center;
       list-style: none;
       padding: 10px;
